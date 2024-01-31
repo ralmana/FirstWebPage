@@ -1,3 +1,1 @@
 # FirstWebPage
-
-Hello world
